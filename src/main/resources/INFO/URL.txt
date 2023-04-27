@@ -1,0 +1,5 @@
+Producto
+/producto/agregar-img "Agregar Producto"
+-Debes mandar 4 parametros(String nombre, double precio, String tipo(Esto esta reguido por los tipos de productos), imagen)
+/producto/delete/{id} "Eliminar producto"
+-Debes mandar un id a traves de la url

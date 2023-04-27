@@ -1,0 +1,26 @@
+Aquí te dejo algunas características que podrías considerar al crear una aplicación de pedidos en línea:
+
+Registro y autenticación de usuarios: Los usuarios deben poder registrarse en la aplicación y crear una cuenta de
+usuario para realizar pedidos. La autenticación también es importante para proteger la información del usuario y
+evitar el spam o contenido inapropiado.
+
+Búsqueda de productos: Los usuarios deben poder buscar y encontrar productos utilizando palabras clave, categorías
+y filtros para facilitar la navegación.
+
+Carrito de compras: Los usuarios deben poder agregar productos al carrito de compras, modificar la cantidad de
+productos y ver el total del pedido.
+
+Pagos en línea: La aplicación debe tener una función de pago en línea para que los usuarios puedan completar su pedido.
+Se deben ofrecer diferentes métodos de pago, como tarjeta de crédito, PayPal, transferencia bancaria, etc.
+
+Historial de pedidos: Los usuarios deben poder ver su historial de pedidos y el estado de cada pedido (en proceso,
+enviado, entregado, etc.).
+
+Gestión de productos: Los administradores deben tener la capacidad de agregar, editar y eliminar productos en la
+aplicación. También deben poder actualizar la información de precios, existencias y descripciones de los productos.
+
+Gestión de clientes y pedidos: Los administradores deben tener la capacidad de ver y administrar los pedidos y la
+información de los clientes.
+
+Notificaciones: La aplicación puede enviar notificaciones por correo electrónico o mensaje de texto para informar a
+los usuarios sobre el estado de su pedido, promociones o actualizaciones en la aplicación.
